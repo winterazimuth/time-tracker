@@ -1,4 +1,4 @@
-Playback Rate
+/*Playback Rate
 1.5
 Current Time 3:34
 /
@@ -351,7 +351,7 @@ Questions
 Search for a question
 0 questions in this lecture
 No questions yet
-Be the first to ask your question! You’ll be able to add details in the next step.
+Be the first to ask your question! You’ll be able to add details in the next step.*/
 package training.taylor.timetracker.core;
 
 import static org.junit.Assert.*;
